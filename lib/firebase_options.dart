@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC3uKy3U4ENmXseDSVFFSAQmj3YqGrFR3M',
+    apiKey: '',
     appId: '1:782286485249:web:01c19ebc6c70a1a2a58d00',
     messagingSenderId: '782286485249',
     projectId: 'airsense-cf390',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDseoT9VB8XqJieVbhslcgSPgWbnO4dgZY',
+    apiKey: '',
     appId: '1:782286485249:android:2e4f562335b9a548a58d00',
     messagingSenderId: '782286485249',
     projectId: 'airsense-cf390',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDLsiOGFHe_6lyiu809iACBVRko-mrBTOU',
+    apiKey: '',
     appId: '1:782286485249:ios:e52a85b70cd9d302a58d00',
     messagingSenderId: '782286485249',
     projectId: 'airsense-cf390',
@@ -71,7 +71,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDLsiOGFHe_6lyiu809iACBVRko-mrBTOU',
+    apiKey: '',
     appId: '1:782286485249:ios:546cc55fab65f0b3a58d00',
     messagingSenderId: '782286485249',
     projectId: 'airsense-cf390',
