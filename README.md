@@ -53,7 +53,7 @@ According to the United States EPA, Indoor Air Quality (IAQ) refers to the air q
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Acknowledgements
-- Special thanks to [Pethu Aravind](https://github.com/Aravind011464) & [Vignesvern](https://github.com/Vignesvern) for their contributions and support.
+- Special thanks to [Pethu Aravind](https://github.com/Aravind011464), [Vignesvern](https://github.com/Vignesvern) & [Saikrishnan R](https://github.com/saikrishy3808u3qr3pur3q) for their contributions and support.
 - This project was inspired by the need for real-time monitoring and improvement of indoor air quality for healthier living environments.
 
 ## Contact
