@@ -49,13 +49,11 @@ According to the United States EPA, Indoor Air Quality (IAQ) refers to the air q
 3. Follow personalized recommendations to maintain good indoor air quality.
 4. Engage with the gamified reward system to earn incentives for maintaining air quality.
 
-## Contributing
-Contributions to enhance the functionality, user experience, or compatibility of the app are welcome. Please fork the repository, make your changes, and submit a pull request for review.
-
 ## License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Acknowledgements
+- Special thanks to [Pethu Aravind](https://github.com/Aravind011464) & [Vignesvern](https://github.com/Vignesvern) for their contributions and support.
 - This project was inspired by the need for real-time monitoring and improvement of indoor air quality for healthier living environments.
 
 ## Contact
